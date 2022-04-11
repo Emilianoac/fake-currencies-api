@@ -1,0 +1,1 @@
+# fake-currencies-api
